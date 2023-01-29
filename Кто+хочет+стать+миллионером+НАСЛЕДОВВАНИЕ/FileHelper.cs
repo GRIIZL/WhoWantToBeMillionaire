@@ -3,8 +3,7 @@ using System.IO;
 
 namespace Кто_хочет_стать_миллионером_НАСЛЕДОВВАНИЕ
 {
-    partial class Game
-    {
+    
         public class FileHelper
         {
             public static string GetDirectoryName()
@@ -21,5 +20,4 @@ namespace Кто_хочет_стать_миллионером_НАСЛЕДОВВ
                 return line;
             }
         }
-    }
 }

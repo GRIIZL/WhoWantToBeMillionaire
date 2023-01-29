@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Кто_хочет_стать_миллионером_НАСЛЕДОВВАНИЕ
 {
-    partial class Game
+    public class Game
     {
 
         private User user;
